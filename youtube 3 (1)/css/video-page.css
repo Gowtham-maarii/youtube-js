@@ -549,7 +549,7 @@ justify-content: space-between;
     width: 90%;
     box-sizing: border-box;
     height: 3rem;
- 
+    margin: .5rem;
 }
 .comment-text > .comment-section > input
 {
@@ -561,11 +561,11 @@ justify-content: space-between;
 {
     
     display: flex;
-    flex-direction: row; 
+    flex-direction: column; 
     width: 100%;
     box-sizing: border-box;
     height:10rem;
-    padding-top:2rem;
+    padding:1rem 0;
 
 
 }
@@ -576,7 +576,7 @@ justify-content: space-between;
     display: flex;
     flex-direction: row;
     justify-content:flex-start;
-   
+   margin: .5rem 0;
 }
 
 .comment-review > .first-comment > .first-prsn-prfl
