@@ -611,12 +611,18 @@ justify-content: space-between;
 
     font-weight: 500;
 }
-
+.person-email > span
+{
+    font-size: 16px;
+}
 .comment-review > .first-comment > .person-details > .comment
 {
 
 }
-
+.comment > p
+{
+    font-size: 14px;
+}
 .comment-review > .first-comment > .person-details > .likes-dislikes
 {
  

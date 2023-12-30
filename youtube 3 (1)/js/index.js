@@ -75,7 +75,7 @@ function rendercontent() {
     var content = document.getElementsByClassName('content')[0]; 
     console.log(content);
 
-    var content_card = content.querySelector('content-card');
+    var content_card = content.querySelector('.content-card');
     console.log(content_card);
 
     let html = '';
